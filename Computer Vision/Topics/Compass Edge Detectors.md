@@ -1,12 +1,3 @@
----
-title: Compass Edge Detectors
-updated: 2023-12-08 17:47:15Z
-created: 2023-12-08 16:46:04Z
-latitude: 53.82059030
-longitude: -7.76841400
-altitude: 0.0000
----
-
 ## Excerpts from His Book
 ![ee063fcc3db34dfa1dee472491e7e978.png](../../_resources/ee063fcc3db34dfa1dee472491e7e978.png)
 ![18c79c151651641b2d39f068a54be115.png](../../_resources/18c79c151651641b2d39f068a54be115.png)

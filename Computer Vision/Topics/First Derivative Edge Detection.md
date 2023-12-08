@@ -1,14 +1,3 @@
----
-title: First Derivative Edge Detection
-updated: 2023-12-08 17:55:53Z
-created: 2023-12-08 12:17:05Z
-latitude: 53.82059030
-longitude: -7.76841400
-altitude: 0.0000
-tags:
-  - topic
----
-
 ## Excerpts from His Book
 ![1ec23e81b8c2f3f731a256253001fed8.png](../../_resources/1ec23e81b8c2f3f731a256253001fed8.png)
 ![3883ba9c4dac85af9ff03b78db70828d.png](../../_resources/3883ba9c4dac85af9ff03b78db70828d.png)

@@ -1,14 +1,3 @@
----
-title: Mean Shift Segmentation
-updated: 2023-12-08 15:43:33Z
-created: 2023-12-08 12:05:00Z
-latitude: 53.82059030
-longitude: -7.76841400
-altitude: 0.0000
-tags:
-  - topic
----
-
 ## Excerpts from His Book
 
 ![Screenshot from 2023-12-08 12-21-45.png](../../_resources/Screenshot%20from%202023-12-08%2012-21-45.png)

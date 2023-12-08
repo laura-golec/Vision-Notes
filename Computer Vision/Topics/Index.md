@@ -1,9 +1,3 @@
----
-title: Index
-updated: 2023-12-08 17:15:34Z
-created: 2023-12-08 17:06:26Z
----
-
 # Table of Contents
 - [Back Projection](../../Computer%20Vision/Topics/Back%20Projection.md) 
 - [Canny](../../Computer%20Vision/Topics/Canny.md) 

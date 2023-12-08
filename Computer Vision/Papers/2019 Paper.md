@@ -1,14 +1,3 @@
----
-title: 2019 Paper
-updated: 2023-12-08 15:56:26Z
-created: 2023-12-08 11:39:57Z
-latitude: 53.82059030
-longitude: -7.76841400
-altitude: 0.0000
-tags:
-  - paper
----
-
 ## Exam Paper - 2019
 [vision2019.PDF](../../_resources/vision2019.PDF)
 

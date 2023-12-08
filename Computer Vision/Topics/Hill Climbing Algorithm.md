@@ -1,14 +1,3 @@
----
-title: Hill Climbing Algorithm
-updated: 2023-12-08 15:43:48Z
-created: 2023-12-08 12:26:34Z
-latitude: 53.82059030
-longitude: -7.76841400
-altitude: 0.0000
-tags:
-  - topic
----
-
 ## Excerpts from His Book
 ![Screenshot from 2023-12-08 12-41-35.png](../../_resources/Screenshot%20from%202023-12-08%2012-41-35.png)
 

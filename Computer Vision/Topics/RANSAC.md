@@ -1,14 +1,3 @@
----
-title: RANSAC
-updated: 2023-12-08 15:43:22Z
-created: 2023-12-08 12:15:05Z
-latitude: 53.82059030
-longitude: -7.76841400
-altitude: 0.0000
-tags:
-  - topic
----
-
 ## Excerpts from His Slides (Not in the Book)
 ![Screenshot from 2023-12-08 13-26-22.png](../../_resources/Screenshot%20from%202023-12-08%2013-26-22.png)
 ![Screenshot from 2023-12-08 13-26-28.png](../../_resources/Screenshot%20from%202023-12-08%2013-26-28.png)

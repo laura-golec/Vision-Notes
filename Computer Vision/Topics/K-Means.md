@@ -1,14 +1,3 @@
----
-title: K-Means
-updated: 2023-12-08 15:43:39Z
-created: 2023-12-08 12:09:50Z
-latitude: 53.82059030
-longitude: -7.76841400
-altitude: 0.0000
-tags:
-  - topic
----
-
 ## Excerpts from His Book
 ![Screenshot from 2023-12-08 12-45-23.png](../../_resources/Screenshot%20from%202023-12-08%2012-45-23.png)
 ![Screenshot from 2023-12-08 12-46-05.png](../../_resources/Screenshot%20from%202023-12-08%2012-46-05.png)

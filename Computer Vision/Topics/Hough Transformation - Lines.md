@@ -1,12 +1,3 @@
----
-title: Hough Transformation - Lines
-updated: 2023-12-08 15:45:51Z
-created: 2023-12-08 13:47:25Z
-latitude: 53.82059030
-longitude: -7.76841400
-altitude: 0.0000
----
-
 ## Excerpts from His Book
 ![2881cc50f77cda42be9d2c34c3195a2f.png](../../_resources/2881cc50f77cda42be9d2c34c3195a2f.png)
 ![17c2360b839752a23cd2dc0d01af6f2a.png](../../_resources/17c2360b839752a23cd2dc0d01af6f2a.png)
