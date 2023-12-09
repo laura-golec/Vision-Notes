@@ -53,6 +53,8 @@ This function essentially randomly picks two points and draws a line between the
 
 It is not really used due to its randomisation. Usually a better alternative is Hough Transformation.
 
+---
+
 ### Sample Questions
 2019 Exam Paper Question 2.a.
 ![97d7ca435dc87a1a386693cd350f1bbb.png](../../_resources/97d7ca435dc87a1a386693cd350f1bbb.png)

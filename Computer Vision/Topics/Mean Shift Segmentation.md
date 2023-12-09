@@ -24,6 +24,7 @@ The function is given a rough estimate of the starting location of the target in
 
 This function tends to put a higher value on pixels towards the center of the target rather than the extremities. 
 
+---
 
 ### Sample Questions
 2019 Exam Paper Question 1.a.

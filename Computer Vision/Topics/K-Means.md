@@ -40,6 +40,8 @@ First, the maximum limit of the amount of colours has to be chosen. There is no 
 
 This is non-deterministic as the exemplars are chosen randomly and putting in the same limit rarely results in the same output. As such this function is not ideal.
 
+---
+
 ### Sample Questions
 2019 Exam Paper Question 1.b.
 ![5b4622177e4ea5447245a54c866af52d.png](../../_resources/5b4622177e4ea5447245a54c866af52d.png)

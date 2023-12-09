@@ -8,7 +8,7 @@
 ### **Topics Mentioned**
 - [Roberts Edge Detector](../../Computer%20Vision/Topics/Roberts%20Edge%20Detector.md)
 - [Compass Edge Detectors](../../Computer%20Vision/Topics/Compass%20Edge%20Detectors.md)
-- [Non-Maxima Compression](../../Computer%20Vision/Topics/Non-Maxima%20Compression.md)
+- [Non-Maxima Suppression](../../Computer%20Vision/Topics/Non-Maxima%20Suppression.md)
 
 The above topics are *essential* to understanding the following topic.
 
@@ -42,3 +42,9 @@ The result of a CED essentially gives the result of pixel gradient changes on tw
 To do this it applies thresholding to the images. This refines the edges to a certain degree, however, further refinement is required. To do this, non-maxima suppression is applied. This essentially looks at the pixels in a certain edge and only keeps the most prominent ones, and suppresses the less prominent ones.
 
 This whole process results in a mostly clean image of edges.
+
+---
+
+### Sample Questions
+2019 Exam Paper Question 2.b.
+![6a4ff90fa1c6f8ab08b2364d97717c15.png](../../_resources/6a4ff90fa1c6f8ab08b2364d97717c15.png)

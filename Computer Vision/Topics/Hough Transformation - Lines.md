@@ -20,6 +20,8 @@ This function is very elegant, but quite resource and time intensive. It require
 
 It often detects a line twice as it checks in the full 360 degree space, meaning that a line rotated 180 degrees (essentially the same line) is also detected as a valid line. To stop this and to lessen the resource heaviness, it is very often advised to only check 180 degrees of the space to check for lines.
 
+---
+
 ### Sample Questions
 2019 Exam Paper Question 2.a.
 ![97d7ca435dc87a1a386693cd350f1bbb.png](../../_resources/97d7ca435dc87a1a386693cd350f1bbb.png)

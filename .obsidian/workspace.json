@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "447bde61f9dc0a8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "281d2af878edb262",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c1df56303e9c939",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Vision/Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "67393ca5d05d66cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "58fd257540ce73f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51f9576c5671f465",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5bb020271a3b1198",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fee072f60946e52d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0fcce68e2d54b51f",
+    "type": "split",
+    "children": [
+      {
+        "id": "57328871ea56870d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d85052456dcf5864",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computer Vision/Index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "61df4605b8e635bf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computer Vision/Index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "93bfd379d1b755fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5393f4b2767dd299",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computer Vision/Index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3c1df56303e9c939",
+  "lastOpenFiles": [
+    "Computer Vision/Papers/Index.md",
+    "Computer Vision/Papers/2019 Paper.md",
+    "_resources/vision2019.PDF",
+    "Computer Vision/Resources/Index.md",
+    "Computer Vision/Resources/Slides.md",
+    "Computer Vision/Resources/Book.md",
+    "Computer Vision/Topics/First Derivative Edge Detection.md",
+    "Computer Vision/Topics/Roberts Edge Detector.md",
+    "Computer Vision/Topics/Compass Edge Detectors.md",
+    "Computer Vision/Topics/Index.md",
+    "Computer Vision/Index.md",
+    "Computer Vision/Topics/Back Projection.md"
+  ]
+}

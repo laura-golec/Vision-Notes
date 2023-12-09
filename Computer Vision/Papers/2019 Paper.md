@@ -15,6 +15,10 @@
 4. Fourth Question
 	a. [First Derivative Edge Detection](../../Computer%20Vision/Topics/First%20Derivative%20Edge%20Detection.md)
 	b. 
+5. Fifth Question
+	a. [SIFT](../../Computer%20Vision/Topics/SIFT.md)
+6. Sixth Question
+	a. [Template Matching](../../Computer%20Vision/Topics/Template%20Matching.md)
 	
 	
 ### My Sample Answers
